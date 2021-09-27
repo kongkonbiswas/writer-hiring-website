@@ -1,0 +1,14 @@
+.calculate-side{
+    padding-left: 10px;
+    background-color: lightseagreen;
+}
+.btn{
+    background-color: lightsalmon;
+    text-align: center;
+    width: 150px;
+    height: 30px;
+    border: 1px solid greenyellow;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 5px;
+}

@@ -1,0 +1,28 @@
+.product{
+    width: 300px;
+    margin: 10px;
+    text-align: center;
+    border: 1px solid seagreen;
+    background-color: lightgoldenrodyellow;
+
+}
+.inner-div{
+    padding-left: 10px;
+}
+.img{
+    width: 200px;
+    border-radius: 100px;
+}
+.title-name{
+    color: seagreen;
+}
+.btn-regular{
+    background-color: yellowgreen;
+    text-align: center;
+    width: 150px;
+    height: 30px;
+    border: 1px solid greenyellow;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 5px;
+}

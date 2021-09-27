@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Humayun Ahmed",
+    "age": "64",
+    "price": 650,
+    "profession": "writer",
+    "key": "a1",
+    "gender": "Boy",
+    "img": "https://s3-ap-southeast-1.amazonaws.com/rokomari110/people/2222ed505a94_1.jpg"
+  },
+  {
+    "name": "Jhankar Mahbub",
+    "age": "25",
+    "price": 1000,
+    "profession": "writer",
+    "key": "a2",
+    "gender": "boy",
+    "img": "https://ds.rokomari.store/rokomari110/people/f05844bf5ab4_40266.jpg"
+  },
+  {
+    "name": "Muhammod Zafar Iqbal",
+    "age": "68",
+    "price": 600,
+    "profession": "writer",
+    "key": "a3",
+    "gender": "Boy",
+    "img": "https://s3-ap-southeast-1.amazonaws.com/rokomari110/people/1323bb4c3d84_93.jpg"
+  },
+  {
+    "name": "Munzereen Shahid",
+    "age": "25",
+    "price": 500,
+    "profession": "writer",
+    "key": "a4",
+    "gender": "girl",
+    "img": "https://s3-ap-southeast-1.amazonaws.com/rokomari110/people/a721f57c3_79420.jpg"
+  },
+  {
+    "name": "S. M. Zakir Hussain",
+    "age": "23",
+    "price": 700,
+    "profession": "writer",
+    "key": "a5",
+    "gender": "boy",
+    "img": "https://s3-ap-southeast-1.amazonaws.com/rokomari110/people/2c6a40119_3595.jpg"
+  },
+  {
+    "name": "Tamim Shahriar Subeen",
+    "age": "27",
+    "price": 350,
+    "profession": "writer",
+    "key": "a6",
+    "gender": "boy",
+    "img": "https://ds.rokomari.store/rokomari110/people/98ec0cea7_4207.jpg"
+  }
+]
