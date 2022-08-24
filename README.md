@@ -1,4 +1,4 @@
-# Coffee-Resturent Website at github
+# Writer Hiring Website at github
 
 Have a look the live preview [Click here to Check Live Site](https://writer-hire-simple-kongkon.netlify.app/).
 
@@ -13,8 +13,6 @@ MongoDb,
 JavaScript ,
 HTML,
 CSS,
-Firebase,
-Google Maps,
-Alan AI
+Firebase
 
 ---Thank You---
