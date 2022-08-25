@@ -13,6 +13,7 @@ MongoDb,
 JavaScript ,
 HTML,
 CSS,
-Firebase
+Firebase,
+Rozerpay
 
 ---Thank You---
